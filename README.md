@@ -49,6 +49,8 @@ Currently working with modern web stacks like **Ruby on Rails**, **Next.js**, an
 ### 📫 Let’s connect!
 Feel free to reach out or check out some of my work below 👇
 
+AIすごい
+
 
 <!--
 **Ryuhei18/Ryuhei18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
